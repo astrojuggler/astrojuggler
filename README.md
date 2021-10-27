@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @astrojuggler
 - 👀 I’m interested in the science of galaxy formation and evolution.
 - 🌱 I’m currently learning how to make the analysis of astrnomical observations faster and more accurate using data-science techniques.
-- 💞️ I’m looking to collaborate on some machine learning project applied to Astronomy.
+- 💞️ I’m open to collaborate on some machine learning project applied to Astronomy.
 - 📫 How to reach me: mattia.sirressi@astro.su.se
 
 <!---
