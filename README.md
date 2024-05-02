@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @astrojuggler
-- 👀 I’m completing a PhD in astrophysics on the subject of star clusters and gas dynamics.
-- 🌱 I’m currently learning how to make the analysis of astronomical observations faster and more accurate using data-science techniques.
-- 💞️ I’m open to collaborate on projects based on Earth Observations, in particular those related to climate change and sustainability.
-- 📫 How to reach me: mattia.sirressi@astro.su.se
+- 👀 I’m a data scientist with a background in astrophysics.
+- 🌱 I developed most of my skills around data and image processing, data distributions, modelling with both physical and machine learning models, spectroscopy, Python and Jupyter Notebook.
+- 💞️ I’m open to collaborate on projects based on public data, for instance Earth Observations, in particular those related to climate change and sustainability.
+- 📫 How to reach me: mattia.sirre@gmail.com
 
 <!---
 astrojuggler/astrojuggler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
